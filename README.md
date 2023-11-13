@@ -58,8 +58,8 @@ All your code and related files should be neatly organized in a Zip file, with t
 
 module_7_Greedy  
 ├── .vscode  
-├── module_7_hangman.csproj  
-├── module_7_hangman.sln  
+├── module_7_greedy.csproj  
+├── module_7_greedy.sln  
 ├── \*.\*  
 └── README.md  
 
